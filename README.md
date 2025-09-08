@@ -1,1 +1,1 @@
-# quizes
+A responsive and user-friendly quiz platform designed to test knowledge across various topics. The website allows users to attempt multiple-choice quizzes, view their scores instantly, and track performance in real-time. It is built with a clean interface to ensure smooth navigation and engaging user experience.
